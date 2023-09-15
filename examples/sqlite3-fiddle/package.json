@@ -1,0 +1,5 @@
+{
+    "name": "sqlite3-fiddle",
+    "version": "0.0.1",
+    "description": "run sqlite in web browser"
+}
