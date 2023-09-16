@@ -13,6 +13,8 @@ TODO:
 
 TL;DR: deploy a static web app within a web app.
 
+![demo](./doc/demo.gif)
+
 This project is a part of [Eidos](https://github.com/mayneyao/eidos) (open source soon) and comes with an unexpected feature - the ability to deploy a static web app within a web app. Instead of using separate programs like `npx serve`, `python -m http.server`, or Docker to deploy your static web app locally, you can simply drop the output from the dist folder into this Progressive Web Application (PWA) and start it with a single click.
 
 
